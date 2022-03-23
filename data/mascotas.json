@@ -1,0 +1,94 @@
+{
+  "mascotas": [
+    {
+      "id": 1,
+      "name": "Pelusa",
+      "especie": "gato",
+      "image": "/img/1.jpg",
+      "edad": "1 mes",
+      "description": "este gatito recien nacido fue encontrado en la puerta de nuestra casa en una noche lluviosa.",
+      "raza": "criollo"
+    },
+    {
+      "id": 2,
+      "name": "Lola",
+      "especie": "perro",
+      "image": "/img/2.jpg",
+      "edad": "1 mes",
+      "description": "lindo perrito abandonado despues de perderse en una piscina de pelotas, es muy obediente.",
+      "raza": "yorky terrier"
+    },
+    {
+      "id": 3,
+      "name": "Thor",
+      "especie": "perro",
+      "image": "/img/3.jpg",
+      "edad": "1 año",
+      "description": "lo encontramos sucio en un parque, sus condiciones hacian verlo feo pero con amor y cuidado ahora esta como se muestra en la imagen.",
+      "raza": "lobo siberiano"
+    },
+    {
+      "id": 4,
+      "name": "Simba",
+      "especie": "gato",
+      "image": "/img/4.jpg",
+      "edad": "4 meses",
+      "description": "fue abandonado por su caceria voraz de matar ratones, su apariencia linda esconde una bestia.",
+      "raza": "criollo mixto"
+    },
+    {
+      "id": 5,
+      "name": "bruno",
+      "especie": "gato",
+      "image": "/img/5.jpg",
+      "edad": "1 año",
+      "description": "lo siento no podemos hablar sobre bruno no no no.",
+      "raza": "blanco"
+    },
+    {
+      "id": 6,
+      "name": "Kiara y rocky",
+      "especie": "perro",
+      "image": "/img/1.jpg",
+      "edad": "3 años y 5 meses",
+      "description": "madre e hijo inseparables desde que fueren encontrados, siempre espera a su madre para dormir a la misma hora.",
+      "raza": "bull terrier"
+    },
+    {
+      "id": 7,
+      "name": "Leo",
+      "especie": "gato",
+      "image": "/img/7.jpg",
+      "edad": "2 años",
+      "description": "un gatito encontrado cerca de una zanja busca familia que lo adopte.",
+      "raza": "criollo mixto"
+    },
+    {
+      "id": 8,
+      "name": "luna",
+      "especie": "perro",
+      "image": "/img/8.jpg",
+      "edad": "3 años",
+      "description": "su nombre viene del momento en el que lo encontramos en un lago mientras que estaba la luna llena.",
+      "raza": "border collie"
+    },
+    {
+      "id": 9,
+      "name": "canela",
+      "especie": "perro",
+      "image": "/img/9.jpg",
+      "edad": "5 años",
+      "description": "tenia tanto pelo que pensabamos que era una nueva especie de animal, pero despues de organizarlo encontramos amor puro en ella.",
+      "raza": "schnauzer"
+    },
+    {
+      "id": 10,
+      "name": "Coco",
+      "especie": "gato",
+      "image": "/img/10.jpg",
+      "edad": "1 y medio de años",
+      "description": "gato exotico y tiene un caracter muy especial con las mujeres (a los hombres los corta).",
+      "raza": "maine coon"
+    }
+  ]
+}
